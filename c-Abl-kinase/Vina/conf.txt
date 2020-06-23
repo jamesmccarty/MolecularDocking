@@ -1,0 +1,13 @@
+receptor = target.pdbqt 
+
+center_x = 15.601
+center_y = 53.387
+center_z = 15.453
+
+size_x = 20
+size_y = 20
+size_z = 20
+
+out = output.pdb 
+
+exhaustiveness = 10
