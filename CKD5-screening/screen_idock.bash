@@ -1,7 +1,7 @@
 #!/bin/bash
-#This script will run a virtual screen with Vina
-#This script should be in the parent directory with a conf.txt file, the protein
-#target as a PDBQT file, the Vina program, and all ligands in a directory
+#This script will run a virtual screen with iDock
+#This script should be in the parent directory with a idock.conf file, the protein
+#target as a PDBQT file, the iDock program, and all ligands in a directory
 #named Ligands, each with a name starting with "ligand," and in PDBQT format.
 mkdir -p Results-iDock 
 idock --config idock.conf 
