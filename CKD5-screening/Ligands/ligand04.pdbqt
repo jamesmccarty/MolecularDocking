@@ -1,0 +1,28 @@
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C2_2  and  C10_5 
+REMARK       I    between atoms: C2_2  and  N3_3 
+REMARK    2  A    between atoms: N3_3  and  C4_11 
+ROOT
+ATOM      1  O1  LZ5 A1299      27.971   7.438  64.276  1.00  0.00    -0.266 OA
+ATOM      2  C2  LZ5 A1299      28.424   6.468  64.811  1.00  0.00     0.276 C 
+ATOM      3  N3  LZ5 A1299      29.583   6.487  65.496  1.00  0.00    -0.322 N 
+HETATM    4  H   LZ5 A1299      29.802   5.682  66.018  1.00  0.00     0.169 HD
+ENDROOT
+BRANCH   2   5
+ATOM      5  C10 LZ5 A1299      27.753   5.167  64.705  1.00  0.00     0.146 A 
+ATOM      6  C11 LZ5 A1299      26.606   4.870  63.980  1.00  0.00     0.058 A 
+ATOM      7  C12 LZ5 A1299      26.396   3.552  64.178  1.00  0.00     0.112 A 
+ATOM      8  N13 LZ5 A1299      27.388   3.113  64.972  1.00  0.00    -0.289 N 
+ATOM      9  N15 LZ5 A1299      28.246   4.111  65.297  1.00  0.00    -0.170 NA
+HETATM   10  H   LZ5 A1299      27.480   2.182  65.279  1.00  0.00     0.188 HD
+ENDBRANCH   2   5
+BRANCH   3  11
+ATOM     11  C4  LZ5 A1299      30.508   7.537  65.540  1.00  0.00     0.035 A 
+ATOM     12  C5  LZ5 A1299      30.772   8.296  64.399  1.00  0.00     0.029 A 
+ATOM     13  C6  LZ5 A1299      31.683   9.333  64.449  1.00  0.00     0.002 A 
+ATOM     14  C7  LZ5 A1299      32.342   9.616  65.630  1.00  0.00     0.000 A 
+ATOM     15  C8  LZ5 A1299      32.088   8.869  66.763  1.00  0.00     0.002 A 
+ATOM     16  C9  LZ5 A1299      31.183   7.831  66.721  1.00  0.00     0.029 A 
+ENDBRANCH   3  11
+TORSDOF 2

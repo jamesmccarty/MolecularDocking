@@ -1,0 +1,15 @@
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+ROOT
+HETATM    1  C   LIG     1       2.176  -0.687  -0.122  1.00  0.00     0.001 A 
+HETATM    2  C   LIG     1       2.162   0.708  -0.123  1.00  0.00     0.002 A 
+HETATM    3  C   LIG     1       0.961   1.421  -0.030  1.00  0.00     0.032 A 
+HETATM    4  C   LIG     1      -0.216   0.672   0.063  1.00  0.00     0.061 A 
+HETATM    5  N   LIG     1      -1.530   1.046   0.169  1.00  0.00    -0.278 N 
+HETATM    6  H   LIG     1      -1.903   1.987   0.203  1.00  0.00     0.189 HD
+HETATM    7  N   LIG     1      -2.393   0.016   0.234  1.00  0.00    -0.186 NA
+HETATM    8  C   LIG     1      -1.598  -1.056   0.173  1.00  0.00     0.152 A 
+HETATM    9  C   LIG     1      -0.230  -0.718   0.066  1.00  0.00     0.011 A 
+HETATM   10  C   LIG     1       0.984  -1.418  -0.027  1.00  0.00     0.015 A 
+ENDROOT
+TORSDOF 0
